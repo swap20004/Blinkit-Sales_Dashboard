@@ -27,3 +27,11 @@ This project focuses on analyzing sales data from Blinkit, India's last-minute d
 
 ## Dashboard
 <img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/4da3230a-1415-4e9c-b249-c351605c4388" />
+
+## Project Insights
+-	Total Sales: $1.20M generated from 8,523 items sold.
+-	Regular fat content products contribute more to overall sales compared to low-fat items.
+-	Supermarket Type1 outlets generate the highest sales and contain the largest number of items.
+-	Tier 3 outlet locations show strong sales performance compared to other tiers.
+-	Certain product categories such as Fruits, Snacks, and Household items contribute significantly to total sales.
+
