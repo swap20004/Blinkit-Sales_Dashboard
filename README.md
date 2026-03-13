@@ -13,3 +13,6 @@ This project focuses on analyzing sales data from Blinkit, India's last-minute d
 -	Sales by Outlet Size 
 -	Sales by Outlet Location 
 -	All Metrics by Outlet Type
+
+## Dashboard Interaction
+<a href = "https://github.com/swap20004/Blinkit-Sales_Dashboard/blob/main/Dashboard%20.png">View Dashborad</a>
