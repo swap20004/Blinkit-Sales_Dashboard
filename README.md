@@ -1,4 +1,4 @@
-# Blinkit-Sales-Dashboard
+#   Blinkit-Store-Data-Analysis(Interactive Dashboard creation using MS Excel & PowerBI)
 This project focuses on analyzing sales data from Blinkit, India's last-minute delivery platform. The goal of this project is to transform raw retail data into meaningful insights using Microsoft Excel and Power BI.
 
 ## DataSet Used
