@@ -16,3 +16,11 @@ This project focuses on analyzing sales data from Blinkit, India's last-minute d
 
 ## Dashboard Interaction
 <a href = "https://github.com/swap20004/Blinkit-Sales_Dashboard/blob/main/Dashboard%20.png">View Dashborad</a>
+
+## Process
+-	Collected the sales dataset and understood the business requirements for analyzing retail performance.
+-	Performed data cleaning and preprocessing in Microsoft Excel to remove inconsistencies and prepare the dataset for analysis.
+-	Imported the cleaned data into Microsoft Power BI for data modeling and visualization.
+-	Created calculated measures and KPIs such as Total Sales, Average Sales, Number of Items, and Average Rating.
+-	Designed interactive dashboards using different charts and slicers for better data exploration.
+-	Implemented filters for Outlet Location, Outlet Size, and Item Type to enable dynamic analysis.
