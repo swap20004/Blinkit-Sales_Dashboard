@@ -24,3 +24,6 @@ This project focuses on analyzing sales data from Blinkit, India's last-minute d
 -	Created calculated measures and KPIs such as Total Sales, Average Sales, Number of Items, and Average Rating.
 -	Designed interactive dashboards using different charts and slicers for better data exploration.
 -	Implemented filters for Outlet Location, Outlet Size, and Item Type to enable dynamic analysis.
+
+## Dashboard
+<img width="1418" height="802" alt="image" src="https://github.com/user-attachments/assets/4da3230a-1415-4e9c-b249-c351605c4388" />
